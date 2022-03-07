@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tareqshawwasoft
-- 👀 I’m interested in developing applications using Java/Kotlin
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning PHP, Laravel.
+- 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me at tareqsoftwork@gmail.com
 
 <!---
